@@ -180,3 +180,18 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for det
 
 ## Copyright Notice
 
+© 2025 Aniket Mishra. All rights reserved.
+
+This code is protected by copyright law. No part of this website, including but not limited to the code, design, and content, may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the copyright owner.
+
+If you wish to use any part of this code for educational or personal purposes, please contact me for permission and ensure proper attribution is given.
+
+## Contact
+
+- Email: mishraaniket267@gmail.com
+- LinkedIn: [linkedin.com/in/aniketmishra267](https://linkedin.com/in/aniketmishra267)
+- GitHub: [github.com/GaLiIeo](https://github.com/GaLiIeo)
+
+---
+
+Made with ❤️ by Aniket Mishra
