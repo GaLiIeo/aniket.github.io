@@ -1,6 +1,13 @@
-# Aniket Mishra - Portfolio Website
+# Aniket Mishra — Portfolio Website
+
+[![CI](https://img.shields.io/github/actions/workflow/status/GaLiIeo/aniket.github.io/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/GaLiIeo/aniket.github.io/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/GaLiIeo/aniket.github.io?style=flat-square)](https://github.com/GaLiIeo/aniket.github.io/commits/main)
+[![Pages](https://img.shields.io/badge/Pages-deployed-1f6feb?style=flat-square&logo=githubpages&logoColor=white)](https://galiieo.github.io/aniket.github.io/)
 
 A modern, interactive portfolio website showcasing my skills, experience, and projects as a Business & Information Systems Specialist.
+
+**[→ View the live site](https://galiieo.github.io/aniket.github.io/)**
 
 ## Features
 
@@ -173,18 +180,3 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for det
 
 ## Copyright Notice
 
-© 2025 Aniket Mishra. All rights reserved.
-
-This code is protected by copyright law. No part of this website, including but not limited to the code, design, and content, may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the copyright owner.
-
-If you wish to use any part of this code for educational or personal purposes, please contact me for permission and ensure proper attribution is given.
-
-## Contact
-
-- Email: mishraaniket267@gmail.com
-- LinkedIn: [linkedin.com/in/aniketmishra267](https://linkedin.com/in/aniketmishra267)
-- GitHub: [github.com/GaLiIeo](https://github.com/GaLiIeo)
-
----
-
-Made with ❤️ by Aniket Mishra
